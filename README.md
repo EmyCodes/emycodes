@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I am Elijah Lawal </h1>
+<h1 align='center'> Welcome To EmyCodes Profile</h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
   I am a Software Engineer, Mathematics student at Federal UniversitY of Technology, Akure (FUTA) Nigeria 🇳🇬.
