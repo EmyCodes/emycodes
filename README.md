@@ -7,16 +7,12 @@
   I'm passionate about how technology boosts productivity and economic growth. 
   I think is important to ask why and what we want to achieve before starting a project.
   I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, JavaScript, C/C++, Python and recent developments.    
-</p>
-<p>
-  I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particularly Football :soccer: and Basketball :basketball:.
-</p>
 
 <h4>Connect With Me</h4>
 <p align='center'>
   <a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emycodes-18aa101bb"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/emycodes"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/emycodes/">Facebook<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/emy_codes/"> <img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -56,7 +52,7 @@
   <summary>:wrench:&nbsp;&nbsp;&nbsp;<b>Github Stats</b></summary>
   <br/>
   <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ElijahLawal-7&show_icons=true&count_private=true&theme=dark" width="355"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=emycodes&show_icons=true&count_private=true&theme=dark" width="355"></a>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timex19&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
