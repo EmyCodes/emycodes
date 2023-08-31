@@ -1,12 +1,12 @@
 <h1 align='center'> Welcome To EmyCodes Profile</h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
-  I am a Software Engineer, Mathematics student at Federal University of Technology, Akure (FUTA) Nigeria 🇳🇬.
+  I am a Software Engineer and mathematics student at the Federal University of Technology, Akure (FUTA) Nigeria 🇳🇬.
 </p>
 <p>
   I'm passionate about how technology boosts productivity and economic growth. 
   I think is important to ask why and what we want to achieve before starting a project.
-  I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with HTML, CSS, JavaScript, C/C++, Python and recent developments.    
+  I love how ideas come true by typing lines of code. I take a special liking to Web Development and the cool things we can do with C/C++, Python, JavaScript, and recent developments.    
 
 <h4>Connect With Me</h4>
 <p align='center'>
